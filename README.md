@@ -1,5 +1,4 @@
-# ru-community-where-winds-meet
-КРУПНЕЙШЕЕ РУССКОЯЗЫЧНОЕ СООБЩЕСТВО GOLDEN CROWN по игре Where Winds Meet (PC/PS/Mobile/Xbox(с лета 2026)):
+# КРУПНЕЙШЕЕ РУССКОЯЗЫЧНОЕ СООБЩЕСТВО GOLDEN CROWN по игре Where Winds Meet(PC/PS/Mobile/Xbox(с лета 2026)):
   
 🔸Интернациональный коллектив. У нас играют русскоязычные игроки из стран СНГ и ЕВРОПЫ.  
 🔸Пол, страна, вероисповедание любое.  
@@ -13,3 +12,5 @@
   
 Найти нас можно, введя во вкладке ПУТЕШЕСТВИЯ в Дискорде: Golden Crown  
 Или по ссылке в Дискорде: https://discord.gg/aGUWFA8
+
+<img width="1200" height="849" alt="Крупнейшее русскоязычное сообщество по where winds meet - Golden Crown обложка" src="https://github.com/user-attachments/assets/290fed4f-b704-4eef-818b-40df31a33eb8" />
